@@ -1,6 +1,7 @@
 <?php
-namespace app;
-require_once "autoloader.php";
+namespace src;
+
+require_once "../../../autoloader.php";
 
 use nombreProyecto\ClasesNegocio\Clase1;
 use nombreProyecto\ClasesNegocio\Clase2;
